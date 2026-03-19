@@ -1,0 +1,8 @@
+{
+  "Arithmetic": "generate_arithmetic",
+  "Geometric": "generate_geometric",
+  "Logical": "generate_logical",
+  "Fibonacci": "generate_fibonacci",
+  "Squares": "generate_squares",
+  "Random": "random"
+}
