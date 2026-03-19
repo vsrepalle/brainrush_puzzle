@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+
+# Secrets / credentials
+client_secret.json
+token.pickle
+
+# Python build / dist
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+logs/
+*.log
+
+# Output videos
+output/videos/
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.swp
+
+# Assets that might be large or regenerated
+assets/backgrounds/*.jpg
+assets/backgrounds/*.png
+assets/backgrounds/*.mp3

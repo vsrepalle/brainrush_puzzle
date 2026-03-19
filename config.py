@@ -1,0 +1,4 @@
+VIDEO_DURATION = 30
+PUZZLES_PER_VIDEO = 5
+OUTPUT_DIR = "output/videos"
+CHANNEL_NAME = "BrainRush Puzzles"
